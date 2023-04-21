@@ -14,7 +14,7 @@ function MostrarHead (){
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Movate</title>
+    <title>VirusHunter</title>
 
     <!-- CSS FILES -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -42,7 +42,7 @@ function MostrarHeader(){
     <nav class="navbar navbar-expand-lg">
     <div class="container">
         <a class="navbar-brand" href="index.html">
-            Festava Live
+             VirusHunter
         </a>
 
         <a href="ticket.html" class="btn custom-btn d-lg-none ms-auto me-4">Buy Ticket</a>
@@ -55,31 +55,27 @@ function MostrarHeader(){
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav align-items-lg-center ms-auto me-lg-5">
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="#section_1">Home</a>
+                    <a class="nav-link click-scroll" href="#section_1">Inicio</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="#section_2">About</a>
+                    <a class="nav-link click-scroll" href="#section_2">Sobre Nosotros</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="#section_3">Artists</a>
+                    <a class="nav-link click-scroll" href="#section_3">Nuestros clientes</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="#section_4">Schedule</a>
+                    <a class="nav-link click-scroll" href="#section_5">Planes</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link click-scroll" href="#section_5">Pricing</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link click-scroll" href="#section_6">Contact</a>
+                    <a class="nav-link click-scroll" href="#section_6">Contacto</a>
                 </li>
             </ul>
 
-            <a href="ticket.html" class="btn custom-btn d-lg-block d-none">Buy Ticket</a>
+            <a href="ticket.html" class="btn custom-btn d-lg-block d-none">Adquirir ahora</a>
         </div>
     </div>
 </nav>
@@ -95,7 +91,7 @@ function MostrarContactUs(){
             <div class="row">
 
                 <div class="col-lg-6 col-12">
-                    <h2 class="text-white mb-lg-0">Festava Live</h2>
+                    <h2 class="text-white mb-lg-0">VirusHunter</h2>
                 </div>
 
                 <div class="col-lg-6 col-12 d-flex justify-content-lg-end align-items-center">
@@ -143,33 +139,29 @@ function MostrarContactUs(){
 
                 <ul class="site-footer-links">
                     <li class="site-footer-link-item">
-                        <a href="#" class="site-footer-link">Home</a>
+                        <a href="#" class="site-footer-link">Inicio</a>
                     </li>
 
                     <li class="site-footer-link-item">
-                        <a href="#" class="site-footer-link">About</a>
+                        <a href="#" class="site-footer-link">Sobre Nosotros</a>
                     </li>
 
                     <li class="site-footer-link-item">
-                        <a href="#" class="site-footer-link">Artists</a>
+                        <a href="#" class="site-footer-link">Nuestros Clientes</a>
                     </li>
 
                     <li class="site-footer-link-item">
-                        <a href="#" class="site-footer-link">Schedule</a>
+                        <a href="#" class="site-footer-link">Planes</a>
                     </li>
 
                     <li class="site-footer-link-item">
-                        <a href="#" class="site-footer-link">Pricing</a>
-                    </li>
-
-                    <li class="site-footer-link-item">
-                        <a href="#" class="site-footer-link">Contact</a>
+                        <a href="#" class="site-footer-link">Contacto</a>
                     </li>
                 </ul>
             </div>
 
             <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
-                <h5 class="site-footer-title mb-3">Have a question?</h5>
+                    <h5 class="site-footer-title mb-3">¿Tienes alguna pregunta?</h5>
 
                 <p class="text-white d-flex mb-1">
                     <a href="tel: 090-080-0760" class="site-footer-link">
