@@ -483,7 +483,9 @@
             </div>
         </section>
     </main>
-
+    <?php 
+      MostrarContactUs();
+    ?>
     <?php 
       MostrarJS();
     ?>

@@ -28,6 +28,19 @@ function MostrarHead (){
     <link href="css/bootstrap-icons.css" rel="stylesheet">
 
     <link href="css/templatemo-festava-live.css" rel="stylesheet">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="dist/css/font-awesome.min.css">
+    <link rel="stylesheet" href="dist/css/line-icons.css">
+    <link rel="stylesheet" href="dist/css/owl.carousel.css">
+    <link rel="stylesheet" href="dist/css/owl.theme.css">
+    <link rel="stylesheet" href="dist/css/nivo-lightbox.css">
+    <link rel="stylesheet" href="dist/css/magnific-popup.css">
+    <link rel="stylesheet" href="dist/css/slicknav.css">
+    <link rel="stylesheet" href="dist/css/animate.css">
+    <link rel="stylesheet" href="dist/css/main.css">    
+    <link rel="stylesheet" href="dist/css/responsive.css">
 </head>
     ';
 }
@@ -242,6 +255,27 @@ Function MostrarJS(){
     <script src="js/jquery.sticky.js"></script>
     <script src="js/click-scroll.js"></script>
     <script src="js/custom.js"></script>
+    <script src="dist/js/jquery-min.js"></script>
+    <script src="dist/js/popper.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+    <script src="dist/js/jquery.mixitup.js"></script>
+    <script src="dist/js/nivo-lightbox.js"></script>
+    <script src="dist/js/owl.carousel.js"></script>    
+    <script src="dist/js/jquery.stellar.min.js"></script>    
+    <script src="dist/js/jquery.nav.js"></script>    
+    <script src="dist/js/scrolling-nav.js"></script>    
+    <script src="dist/js/jquery.easing.min.js"></script>    
+    <script src="dist/js/smoothscroll.js"></script>    
+    <script src="dist/js/jquery.slicknav.js"></script>     
+    <script src="dist/js/wow.js"></script>   
+    <script src="dist/js/jquery.vide.js"></script>
+    <script src="dist/js/jquery.counterup.min.js"></script>    
+    <script src="dist/js/jquery.magnific-popup.min.js"></script>    
+    <script src="dist/js/waypoints.min.js"></script>    
+    <script src="dist/js/form-validator.min.js"></script>
+    <script src="dist/js/contact-form-script.js"></script>   
+    <script src="dist/js/main.js"></script>
+
 
     ';
 }
