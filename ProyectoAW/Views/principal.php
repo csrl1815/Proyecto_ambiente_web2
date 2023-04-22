@@ -24,7 +24,7 @@
 
                     <h1 class="text-white mb-5">VirusHunter</h1>
 
-                    <a class="btn custom-btn smoothscroll" href="#section_2">Let's begin</a>
+                    <a class="btn custom-btn smoothscroll" href="#section_2">Comenzar</a>
                 </div>
 
                 <div class="col-lg-12 col-12 mt-auto d-flex flex-column flex-lg-row text-center">
@@ -103,24 +103,6 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6 col-12">
-                    <div class="about-text-wrap">
-                        <img src="img/VirusHunter.png" class="about-image img-fluid">
-
-                        <div class="about-text-info d-flex">
-                            <div class="d-flex">
-                                <i class="about-text-icon bi-person"></i>
-                            </div>
-
-
-                            <div class="ms-4">
-                                <h3>Seguridad a tu alcance</h3>
-
-                                <p class="mb-0">el mejor antivirus en el mercado</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
             </div>
         </div>
@@ -135,7 +117,7 @@
                     <h2 class="mb-4">Nuestros Clientes</h1>
                 </div>
 
-                <div class="col-lg-5 col-12">
+                <div class="col-lg-5 col-6">
                     <div class="artists-thumb">
                         <div class="artists-image-wrap">
                             <img src="img/PG.png" class="artists-image img-fluid">
@@ -144,7 +126,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-5 col-12">
+                <div class="col-lg-5 col-6">
                     <div class="artists-thumb">
                         <div class="artists-image-wrap">
                             <img src="img/pfizer.jpg"
@@ -160,7 +142,7 @@
                 </div>
 
                 <div class="artists-thumb">
-                        <img src="img/AT&T.svg" class="artists-image img-fluid">
+                        <img src="img/AT&T_logo.png" class="artists-image img-fluid">
 
                     </div>
                 </div>
@@ -181,7 +163,7 @@
                     <h2 class="text-center mb-4">Nuestros Planes</h2>
                 </div>
 
-                <div class="col-lg-6 col-12">
+                <div class="col-lg-6 col-6">
                     <div class="pricing-thumb">
                         <div class="d-flex">
                             <div>
@@ -192,13 +174,15 @@
                         </div>
 
                         <ul class="pricing-list mt-3">
-                            <li class="pricing-list-item">platform for potential customers</li>
+                            <li class="pricing-list-item">Protección antivirus básica para un dispositivo o sistema operativo específico (por ejemplo, Windows o Mac).</li>
 
-                            <li class="pricing-list-item">digital experience</li>
+                            <li class="pricing-list-item">Protección contra virus, malware, spyware y otros tipos de amenazas comunes.</li>
 
-                            <li class="pricing-list-item">high-quality sound</li>
+                            <li class="pricing-list-item">Actualizaciones regulares de la base de datos de virus para mantener la protección al día.</li>
 
-                            <li class="pricing-list-item">standard content</li>
+                            <li class="pricing-list-item">Análisis programados y manual para detectar y eliminar amenazas.</li>
+
+                            <li class="pricing-list-item">Soporte técnico limitado, que puede ser ofrecido solo por correo electrónico o chat.</li>
                         </ul>
 
                         <a class="link-fx-1 color-contrast-higher mt-4" href="ticket.html">
@@ -214,26 +198,26 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6 col-12 mt-4 mt-lg-0">
+                <div class="col-lg-6 col-6 mt-4 mt-lg-0">
                     <div class="pricing-thumb">
                         <div class="d-flex">
                             <div>
                                 <h3><small>Premium</small> $30</h3>
 
-                                <p>What makes a premium festava?</p>
+                                <p>Incluye:</p>
                             </div>
                         </div>
 
                         <ul class="pricing-list mt-3">
-                            <li class="pricing-list-item">platform for potential customers</li>
+                            <li class="pricing-list-item">Protección avanzada contra una amplia gama de amenazas, incluidos virus, malware, ransomware, phishing y ataques de hacker.</li>
 
-                            <li class="pricing-list-item">digital experience</li>
+                            <li class="pricing-list-item">Protección multi-dispositivo para proteger varios dispositivos, como computadoras, teléfonos inteligentes y tabletas.</li>
 
-                            <li class="pricing-list-item">high-quality sound</li>
+                            <li class="pricing-list-item">Protección de identidad y privacidad, que incluye bloqueo de sitios web maliciosos y protección de la red WiFi</li>
 
-                            <li class="pricing-list-item">premium content</li>
+                            <li class="pricing-list-item">Opciones de seguridad adicionales, como cortafuegos, controles parentales y herramientas de optimización del sistema</li>
 
-                            <li class="pricing-list-item">live chat support</li>
+                            <li class="pricing-list-item">Soporte técnico mejorado, con opciones de chat en vivo, teléfono y correo electrónico.</li>
                         </ul>
 
                         <a class="link-fx-1 color-contrast-higher mt-4" href="ticket.html">
@@ -248,26 +232,26 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-6 col-12 mt-4 mt-lg-0">
+                <div class="col-lg-6 col-6 mt-4 mt-lg-0">
                     <div class="pricing-thumb">
                         <div class="d-flex">
                             <div>
                                 <h3><small>Business</small> $80</h3>
 
-                                <p>What makes a premium festava?</p>
+                                <p>Incluye:</p>
                             </div>
                         </div>
 
                         <ul class="pricing-list mt-3">
-                            <li class="pricing-list-item">platform for potential customers</li>
+                            <li class="pricing-list-item">Protección antivirus y antimalware avanzada para múltiples dispositivos y usuarios.</li>
 
-                            <li class="pricing-list-item">digital experience</li>
+                            <li class="pricing-list-item">Administración centralizada de la seguridad, que permite al administrador controlar la protección en todas las computadoras de la empresa.</li>
 
-                            <li class="pricing-list-item">high-quality sound</li>
+                            <li class="pricing-list-item">Protección de correo electrónico y filtrado de spam para proteger la comunicación de la empresa</li>
 
-                            <li class="pricing-list-item">premium content</li>
+                            <li class="pricing-list-item">Control de acceso a la red y herramientas de prevención de pérdida de datos para garantizar la seguridad de la información empresarial confidencial.</li>
 
-                            <li class="pricing-list-item">live chat support</li>
+                            <li class="pricing-list-item">Soporte técnico empresarial, con opciones de chat en vivo, teléfono y correo electrónico.</li>
                         </ul>
 
                         <a class="link-fx-1 color-contrast-higher mt-4" href="ticket.html">
@@ -314,24 +298,21 @@
                                     <div class="row">
                                         <div class="col-lg-6 col-md-6 col-12">
                                             <input type="text" name="contact-name" id="contact-name"
-                                                class="form-control" placeholder="Full name" required>
+                                                class="form-control" placeholder="Nombre Completo" required>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-12">
                                             <input type="email" name="contact-email" id="contact-email"
-                                                pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Email address"
+                                                pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Correo Electronico"
                                                 required>
                                         </div>
                                     </div>
 
-                                    <input type="text" name="contact-company" id="contact-company" class="form-control"
-                                        placeholder="Company" required>
-
                                     <textarea name="contact-message" rows="3" class="form-control" id="contact-message"
-                                        placeholder="Message"></textarea>
+                                        placeholder="Mensaje"></textarea>
 
                                     <div class="col-lg-4 col-md-10 col-8 mx-auto">
-                                        <button type="submit" class="form-control">Send message</button>
+                                        <button type="submit" class="form-control">Enviar</button>
                                     </div>
                                 </div>
                             </form>

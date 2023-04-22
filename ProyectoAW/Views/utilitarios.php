@@ -73,9 +73,13 @@ function MostrarHeader(){
                 <li class="nav-item">
                     <a class="nav-link click-scroll" href="#section_6">Contacto</a>
                 </li>
+
+                <li class="nav-item">
+                <a class="nav-link click-scroll" href="terminos.php">Terminos y Condiciones</a>
+            </li>
             </ul>
 
-            <a href="ticket.html" class="btn custom-btn d-lg-block d-none">Adquirir ahora</a>
+            <a href="productos.php" class="btn custom-btn d-lg-block d-none">Adquirir ahora</a>
         </div>
     </div>
 </nav>

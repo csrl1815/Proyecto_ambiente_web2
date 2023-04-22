@@ -17,15 +17,15 @@
     <!-- Header Section End -->
 
     <!-- Services Section Start -->
-    <section id="services" class="section">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title wow fadeIn" data-wow-duration="1000ms" data-wow-delay="0.3s">Términos y
-                    condiciones</h2>
+    <section class="ticket-section section-padding">
+            <div class="section-overlay"></div>
+
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-6 col-10 mx-auto">
+                    <h2 >Términos y condiciones</h2>
             </div>
-            <hr class="lines wow zoomIn" data-wow-delay="0.3s">
-            <p class="section-subtitle wow fadeIn" data-wow-duration="1000ms" data-wow-delay="0.3s"
-                style="text-align: justify;">
             <br>
             1. Introducción
             Bienvenido a Mate, una página web de venta de licencias de software de diseño. Al acceder y utilizar
@@ -74,16 +74,11 @@
 
             Fecha de la última actualización: 23 de Marzo de 2023.
             </p>
-
-        </div>
-        </div>
-    </section>
-    <!-- Services Section End -->
-
-
-    <!-- Contact Section Start and Footer-->
+                    </div>
+                </div>
+        </section>
+    </main>
     <?php 
-      MostrarContactUs();
       MostrarFooter();
     ?>
     <!-- Footer Section End -->
