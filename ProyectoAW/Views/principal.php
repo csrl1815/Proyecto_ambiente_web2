@@ -160,7 +160,7 @@
                 </div>
 
                 <div class="artists-thumb">
-                        <img src="img/amazon.png" class="artists-image img-fluid">
+                        <img src="img/AT&T.svg" class="artists-image img-fluid">
 
                     </div>
                 </div>
@@ -170,101 +170,7 @@
     </section>
 
 
-    <section class="schedule-section section-padding" id="section_4">
-        <div class="container">
-            <div class="row">
-
-                <div class="col-12 text-center">
-                    <h2 class="text-white mb-4">Event Schedule</h1>
-
-                        <div class="table-responsive">
-                            <table class="schedule-table table table-dark">
-                                <thead>
-                                    <tr>
-                                        <th scope="col">Date</th>
-
-                                        <th scope="col">Wednesday</th>
-
-                                        <th scope="col">Thursday</th>
-
-                                        <th scope="col">Friday</th>
-
-                                    </tr>
-                                </thead>
-
-                                <tbody>
-                                    <tr>
-                                        <th scope="row">Day 1</th>
-
-                                        <td class="table-background-image-wrap pop-background-image">
-                                            <h3>Pop Night</h3>
-
-                                            <p class="mb-2">5:00 - 7:00 PM</p>
-
-                                            <p>By Adele</p>
-
-                                            <div class="section-overlay"></div>
-                                        </td>
-
-                                        <td style="background-color: #F3DCD4"></td>
-
-                                        <td class="table-background-image-wrap rock-background-image">
-                                            <h3>Rock & Roll</h3>
-
-                                            <p class="mb-2">7:00 - 11:00 PM</p>
-
-                                            <p>By Rihana</p>
-
-                                            <div class="section-overlay"></div>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <th scope="row">Day 2</th>
-
-                                        <td style="background-color: #ECC9C7"></td>
-
-                                        <td>
-                                            <h3>DJ Night</h3>
-
-                                            <p class="mb-2">6:30 - 9:30 PM</p>
-
-                                            <p>By Rihana</p>
-                                        </td>
-
-                                        <td style="background-color: #D9E3DA"></td>
-                                    </tr>
-
-                                    <tr>
-                                        <th scope="row">Day 3</th>
-
-                                        <td class="table-background-image-wrap country-background-image">
-                                            <h3>Country Music</h3>
-
-                                            <p class="mb-2">4:30 - 7:30 PM</p>
-
-                                            <p>By Rihana</p>
-
-                                            <div class="section-overlay"></div>
-                                        </td>
-
-                                        <td style="background-color: #D1CFC0"></td>
-
-                                        <td>
-                                            <h3>Free Styles</h3>
-
-                                            <p class="mb-2">6:00 - 10:00 PM</p>
-
-                                            <p>By Members</p>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
 
     <section class="pricing-section section-padding section-bg" id="section_5">
@@ -272,19 +178,17 @@
             <div class="row">
 
                 <div class="col-lg-8 col-12 mx-auto">
-                    <h2 class="text-center mb-4">Plans, you' love</h2>
+                    <h2 class="text-center mb-4">Nuestros Planes</h2>
                 </div>
 
                 <div class="col-lg-6 col-12">
                     <div class="pricing-thumb">
                         <div class="d-flex">
                             <div>
-                                <h3><small>Early Bird</small> $120</h3>
+                                <h3><small>Basic</small> $15</h3>
 
-                                <p>Including good things:</p>
+                                <p>Incluye:</p>
                             </div>
-
-                            <p class="pricing-tag ms-auto">Save up to <span>50%</span></h2>
                         </div>
 
                         <ul class="pricing-list mt-3">
@@ -298,7 +202,7 @@
                         </ul>
 
                         <a class="link-fx-1 color-contrast-higher mt-4" href="ticket.html">
-                            <span>Buy Ticket</span>
+                            <span>Adquirir</span>
                             <svg class="icon" viewBox="0 0 32 32" aria-hidden="true">
                                 <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
                                     <circle cx="16" cy="16" r="15.5"></circle>
@@ -314,7 +218,7 @@
                     <div class="pricing-thumb">
                         <div class="d-flex">
                             <div>
-                                <h3><small>Standard</small> $240</h3>
+                                <h3><small>Premium</small> $30</h3>
 
                                 <p>What makes a premium festava?</p>
                             </div>
@@ -333,7 +237,41 @@
                         </ul>
 
                         <a class="link-fx-1 color-contrast-higher mt-4" href="ticket.html">
-                            <span>Buy Ticket</span>
+                            <span>Adquirir</span>
+                            <svg class="icon" viewBox="0 0 32 32" aria-hidden="true">
+                                <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="16" cy="16" r="15.5"></circle>
+                                    <line x1="10" y1="18" x2="16" y2="12"></line>
+                                    <line x1="16" y1="12" x2="22" y2="18"></line>
+                                </g>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-12 mt-4 mt-lg-0">
+                    <div class="pricing-thumb">
+                        <div class="d-flex">
+                            <div>
+                                <h3><small>Business</small> $80</h3>
+
+                                <p>What makes a premium festava?</p>
+                            </div>
+                        </div>
+
+                        <ul class="pricing-list mt-3">
+                            <li class="pricing-list-item">platform for potential customers</li>
+
+                            <li class="pricing-list-item">digital experience</li>
+
+                            <li class="pricing-list-item">high-quality sound</li>
+
+                            <li class="pricing-list-item">premium content</li>
+
+                            <li class="pricing-list-item">live chat support</li>
+                        </ul>
+
+                        <a class="link-fx-1 color-contrast-higher mt-4" href="ticket.html">
+                            <span>Adquirir</span>
                             <svg class="icon" viewBox="0 0 32 32" aria-hidden="true">
                                 <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
                                     <circle cx="16" cy="16" r="15.5"></circle>
@@ -355,7 +293,7 @@
             <div class="row">
 
                 <div class="col-lg-8 col-12 mx-auto">
-                    <h2 class="text-center mb-4">Interested? Let's talk</h2>
+                    <h2 class="text-center mb-4">Mas informacion</h2>
 
                     <nav class="d-flex justify-content-center">
                         <div class="nav nav-tabs align-items-baseline justify-content-center" id="nav-tab"
@@ -363,13 +301,7 @@
                             <button class="nav-link active" id="nav-ContactForm-tab" data-bs-toggle="tab"
                                 data-bs-target="#nav-ContactForm" type="button" role="tab"
                                 aria-controls="nav-ContactForm" aria-selected="false">
-                                <h5>Contact Form</h5>
-                            </button>
-
-                            <button class="nav-link" id="nav-ContactMap-tab" data-bs-toggle="tab"
-                                data-bs-target="#nav-ContactMap" type="button" role="tab" aria-controls="nav-ContactMap"
-                                aria-selected="false">
-                                <h5>Google Maps</h5>
+                                <h5>Formulario de contacto</h5>
                             </button>
                         </div>
                     </nav>
@@ -405,14 +337,6 @@
                             </form>
                         </div>
 
-                        <div class="tab-pane fade" id="nav-ContactMap" role="tabpanel"
-                            aria-labelledby="nav-ContactMap-tab">
-                            <iframe class="google-map"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29974.469402870927!2d120.94861466021855!3d14.106066818082482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd777b1ab54c8f%3A0x6ecc514451ce2be8!2sTagaytay%2C%20Cavite%2C%20Philippines!5e1!3m2!1sen!2smy!4v1670344209509!5m2!1sen!2smy"
-                                width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
-                            <!-- You can easily copy the embed code from Google Maps -> Share -> Embed a map // -->
-                        </div>
                     </div>
                 </div>
 
