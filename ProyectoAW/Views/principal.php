@@ -159,6 +159,12 @@
                     </div>
                 </div>
 
+                <div class="artists-thumb">
+                        <img src="img/amazon.png" class="artists-image img-fluid">
+
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
